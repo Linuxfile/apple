@@ -1,1 +1,6 @@
 orange price 20 rupees in bbsr
+20
+10
+50
+echo all are cheep
+ha ha ha

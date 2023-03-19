@@ -4,3 +4,5 @@ orange price 20 rupees in bbsr
 50
 echo all are cheep
 ha ha ha
+echo "hello world"
+movie
